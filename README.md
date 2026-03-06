@@ -1,12 +1,12 @@
-IT ARMY OF UA | mhddos_proxy_linux | https://itarmy.com.ua
+# IT ARMY OF UA | mhddos_proxy_linux | https://itarmy.com.ua
 
 1) Download mhdd tool | wget https://raw.githubusercontent.com/serbianka07/v105/main/mhdd
 2) Make the file executable | chmod +x mhdd
 3) Start the execution in the screen session | screen -S 'mhdd' ./mhdd --user-id=0000000000 --copies 2 -t 8000
 
-# To collect statistics, add the Telegram user-id. This repository also has a Bash script with all the parameters. 
-# You should clone the repo and replace the Telegram ID with your own. 
-# If you don't want to collect statistics about your personal contributions, just edit mhdd.sh remove this parameter --user-id=00000000000. 
-# You can also run the binary with no parameters at all, or you can put --copies auto. 
+To collect statistics, add the Telegram user-id. This repository also has a Bash script with all the parameters. 
+You should clone the repo and replace the Telegram ID with your own. 
+If you don't want to collect statistics about your personal contributions, just edit mhdd.sh remove this parameter --user-id=00000000000. 
+You can also run the binary with no parameters at all, or you can put --copies auto. 
 
-# Good luck
+Good luck
