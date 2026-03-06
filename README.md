@@ -1,4 +1,5 @@
-# IT ARMY OF UA | mhddos_proxy_linux | https://itarmy.com.ua
+# IT ARMY OF UA
+https://itarmy.com.ua | mhddos_proxy_linux 
 
 1) Download mhdd tool | wget https://raw.githubusercontent.com/serbianka07/v105/main/mhdd
 2) Make the file executable | chmod +x mhdd
